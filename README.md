@@ -5,6 +5,7 @@ Open Two Terminals Simultaniously For **Api-Server** & **Frontend-Server** Respe
 
 
 ## Start API-Server
+* First Run Could Take a While as It Downloads 1.5 GB External Assets!
 ```
 !git clone https://github.com/ML9-FORCES/extractify-api.git
 !pip install -r requirements.txt
