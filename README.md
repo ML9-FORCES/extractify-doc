@@ -22,3 +22,6 @@ Open Two Terminals Simultaniously For **Api-Server** & **Frontend-Server** Respe
 
 ## Testing Images & Ocr Files
 [Public-Testing-Dataset](https://drive.google.com/drive/folders/1KjIRC28jPodX3t7s6ClHLPFGCr8e-4j4?usp=sharing)
+
+## Demo 
+[Video](https://www.youtube.com/watch?v=6OUv5cwqcQY)
